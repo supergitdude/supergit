@@ -1,0 +1,1 @@
+Arquivo existente apenas para criação do diretório imagens (no qual esse arquivo está contido), uma vez que o github nõa permite criação de diretórios vazios.
